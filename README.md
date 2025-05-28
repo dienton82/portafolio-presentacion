@@ -4,11 +4,6 @@ Bienvenido a mi portafolio personal como **Ingeniero de Sistemas y Desarrollador
 
 ---
 
-## 🌐 Acceso en línea
-
-🔗 [Ver Portafolio en Producción](https://portafolio-ya.vercel.app)
-
----
 
 ## 🛠️ Tecnologías Principales
 
@@ -20,6 +15,32 @@ Bienvenido a mi portafolio personal como **Ingeniero de Sistemas y Desarrollador
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🌐 Acceso en línea
+
+🔗 [Ver Portafolio en Producción](https://portafolio-ya.vercel.app)
+
+---
+
+## 📈 Vercel Speed Insights
+
+Este portafolio ha sido optimizado para lograr el mejor rendimiento posible.
+
+### ✅ 100 / 100 en Experiencia Real
+
+Mi portafolio ha sido optimizado usando tecnologías como **Next.js**, imágenes inteligentes con `next/image`, `TailwindCSS`, y `Vercel Edge`.
+
+📊 **Métricas clave**:
+
+- ⏱️ First Contentful Paint: 0.59s  
+- 📸 Largest Contentful Paint: 1.86s  
+- ⚡ Interaction to Next Paint: 120ms  
+- 🔒 Cumulative Layout Shift: 0  
+- ⚙️ Time to First Byte: 0.1s
+
+<img src="https://raw.githubusercontent.com/dienton82/portafolio-yeison-alvarez/f5cd9363152faae683754ae569783931d732dfc9/Speed%20Insights%20100%25.png" alt="Score 100 en Vercel Speed Insights" width="800"/>
 
 ---
 
