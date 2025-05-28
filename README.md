@@ -1,4 +1,4 @@
-# 🚀 Portafolio Profesional – Eduardo Álvarez
+# 🚀 Portafolio Profesional – Yeison Alvarez
 
 Bienvenido a mi portafolio personal como **Ingeniero de Sistemas y Desarrollador Web Full-Stack**. Aquí encontrarás proyectos destacados que combinan desarrollo frontend, backend y diseño visual moderno.
 
